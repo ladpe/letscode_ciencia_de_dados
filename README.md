@@ -1,2 +1,2 @@
-# letscode_modulo1
+# letscode_ciencia_de_dados
 arquivos módulo 1
